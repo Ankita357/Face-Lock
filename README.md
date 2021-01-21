@@ -1,7 +1,5 @@
 # Face-Lock
 
-# Face-Lock
-# face-lock-
 
 This project is a facial lock system for the user in this first user creates a data set of his face and then using that we create a lock system that can identify the user 
 
